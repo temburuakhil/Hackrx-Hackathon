@@ -5,3 +5,4 @@ pdfplumber
 faiss-cpu
 google-generativeai
 pydantic==2.7.1
+sentence-transformers
