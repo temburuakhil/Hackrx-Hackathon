@@ -5,3 +5,4 @@ requests
 google-generativeai
 scikit-learn
 sentence-transformers
+faiss-cpu
