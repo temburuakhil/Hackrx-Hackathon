@@ -1,8 +1,7 @@
-fastapi
-uvicorn
-pdfplumber
+fastapi==0.111.0
+uvicorn==0.29.0
 requests
-google-generativeai
-scikit-learn
-sentence-transformers
+pdfplumber
 faiss-cpu
+google-generativeai
+pydantic==2.7.1
